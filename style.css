@@ -40,6 +40,7 @@ nav .fas, nav .far{
     background-image: url("imgs/fix-bg.jpg");
     padding:200px 0;
     text-align: center;
+    background-size: cover;
     /*background-attachment: fixed;*/
 }
 
